@@ -1,6 +1,6 @@
 # Receita
 
-### ### Ingredientes
+### Ingredientes
 
 - item
 
